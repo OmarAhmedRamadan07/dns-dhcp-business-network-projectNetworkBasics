@@ -2,7 +2,7 @@
 
 A comprehensive network infrastructure simulation built to provide centralized IP address management, domain name resolution, and verified network communication for business environments. 
 
-Developed as an academic project for **CET161 – Network Basics (Fall 2025)** at **El Sewedy University of Technology (SUT)**.
+Developed as an academic project for **CET161 – Network Basics** at **El Sewedy University of Technology (SUT)**.
 
 ---
 
